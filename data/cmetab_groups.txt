@@ -1,0 +1,509 @@
+locus_tag	cmetab
+EQU24_RS00705	motility and chemotaxis
+EQU24_RS14290	motility and chemotaxis
+EQU24_RS18715	motility and chemotaxis
+EQU24_RS17685	motility and chemotaxis
+EQU24_RS17680	motility and chemotaxis
+EQU24_RS17660	motility and chemotaxis
+EQU24_RS16870	motility and chemotaxis
+EQU24_RS16865	motility and chemotaxis
+EQU24_RS16860	motility and chemotaxis
+EQU24_RS16845	motility and chemotaxis
+EQU24_RS16840	motility and chemotaxis
+EQU24_RS16835	motility and chemotaxis
+EQU24_RS16830	motility and chemotaxis
+EQU24_RS16825	motility and chemotaxis
+EQU24_RS16820	motility and chemotaxis
+EQU24_RS16815	motility and chemotaxis
+EQU24_RS16810	motility and chemotaxis
+EQU24_RS16805	motility and chemotaxis
+EQU24_RS16800	motility and chemotaxis
+EQU24_RS16795	motility and chemotaxis
+EQU24_RS15960	motility and chemotaxis
+EQU24_RS15955	motility and chemotaxis
+EQU24_RS15950	motility and chemotaxis
+EQU24_RS15945	motility and chemotaxis
+EQU24_RS15940	motility and chemotaxis
+EQU24_RS15935	motility and chemotaxis
+EQU24_RS15930	motility and chemotaxis
+EQU24_RS15925	motility and chemotaxis
+EQU24_RS15920	motility and chemotaxis
+EQU24_RS15885	motility and chemotaxis
+EQU24_RS15880	motility and chemotaxis
+EQU24_RS13935	motility and chemotaxis
+EQU24_RS11330	motility and chemotaxis
+EQU24_RS11325	motility and chemotaxis
+EQU24_RS04945	motility and chemotaxis
+EQU24_RS04940	motility and chemotaxis
+EQU24_RS04935	motility and chemotaxis
+EQU24_RS04930	motility and chemotaxis
+EQU24_RS04925	motility and chemotaxis
+EQU24_RS04920	motility and chemotaxis
+EQU24_RS04915	motility and chemotaxis
+EQU24_RS21450	motility and chemotaxis
+EQU24_RS20475	motility and chemotaxis
+EQU24_RS20395	motility and chemotaxis
+EQU24_RS16855	motility and chemotaxis
+EQU24_RS16850	motility and chemotaxis
+EQU24_RS15905	motility and chemotaxis
+EQU24_RS15900	motility and chemotaxis
+EQU24_RS15895	motility and chemotaxis
+EQU24_RS15890	motility and chemotaxis
+EQU24_RS15870	motility and chemotaxis
+EQU24_RS15865	motility and chemotaxis
+EQU24_RS14610	motility and chemotaxis
+EQU24_RS10665	motility and chemotaxis
+EQU24_RS10660	motility and chemotaxis
+EQU24_RS10655	motility and chemotaxis
+EQU24_RS10650	motility and chemotaxis
+EQU24_RS10645	motility and chemotaxis
+EQU24_RS10640	motility and chemotaxis
+EQU24_RS10635	motility and chemotaxis
+EQU24_RS10580	motility and chemotaxis
+EQU24_RS10575	motility and chemotaxis
+EQU24_RS10530	motility and chemotaxis
+EQU24_RS10525	motility and chemotaxis
+EQU24_RS10520	motility and chemotaxis
+EQU24_RS09970	motility and chemotaxis
+EQU24_RS08435	motility and chemotaxis
+EQU24_RS07785	motility and chemotaxis
+EQU24_RS07780	motility and chemotaxis
+EQU24_RS07775	motility and chemotaxis
+EQU24_RS07770	motility and chemotaxis
+EQU24_RS07760	motility and chemotaxis
+EQU24_RS07755	motility and chemotaxis
+EQU24_RS07750	motility and chemotaxis
+EQU24_RS07745	motility and chemotaxis
+EQU24_RS06140	motility and chemotaxis
+EQU24_RS05060	motility and chemotaxis
+EQU24_RS05050	motility and chemotaxis
+EQU24_RS05030	motility and chemotaxis
+EQU24_RS05025	motility and chemotaxis
+EQU24_RS05020	motility and chemotaxis
+EQU24_RS19745	translation and transcription
+EQU24_RS19690	translation and transcription
+EQU24_RS19685	translation and transcription
+EQU24_RS19680	translation and transcription
+EQU24_RS14085	translation and transcription
+EQU24_RS14080	translation and transcription
+EQU24_RS13310	translation and transcription
+EQU24_RS12310	translation and transcription
+EQU24_RS04815	translation and transcription
+EQU24_RS04165	translation and transcription
+EQU24_RS03365	translation and transcription
+EQU24_RS04000	translation and transcription
+EQU24_RS03190	translation and transcription
+EQU24_RS14075	translation and transcription
+EQU24_RS02870	translation and transcription
+EQU24_RS18900	translation and transcription
+EQU24_RS03845	translation and transcription
+EQU24_RS03840	translation and transcription
+EQU24_RS00520	translation and transcription
+EQU24_RS22155	translation and transcription
+EQU24_RS21040	translation and transcription
+EQU24_RS21035	translation and transcription
+EQU24_RS19125	translation and transcription
+EQU24_RS19120	translation and transcription
+EQU24_RS19105	translation and transcription
+EQU24_RS18065	translation and transcription
+EQU24_RS18060	translation and transcription
+EQU24_RS17640	translation and transcription
+EQU24_RS17625	translation and transcription
+EQU24_RS14360	translation and transcription
+EQU24_RS10395	translation and transcription
+EQU24_RS10005	translation and transcription
+EQU24_RS09995	translation and transcription
+EQU24_RS09990	translation and transcription
+EQU24_RS07395	translation and transcription
+EQU24_RS07390	translation and transcription
+EQU24_RS05540	translation and transcription
+EQU24_RS05250	translation and transcription
+EQU24_RS04255	translation and transcription
+EQU24_RS04005	translation and transcription
+EQU24_RS04000	translation and transcription
+EQU24_RS03995	translation and transcription
+EQU24_RS03990	translation and transcription
+EQU24_RS03985	translation and transcription
+EQU24_RS03980	translation and transcription
+EQU24_RS03975	translation and transcription
+EQU24_RS03970	translation and transcription
+EQU24_RS03965	translation and transcription
+EQU24_RS03960	translation and transcription
+EQU24_RS03955	translation and transcription
+EQU24_RS03950	translation and transcription
+EQU24_RS03945	translation and transcription
+EQU24_RS03940	translation and transcription
+EQU24_RS03935	translation and transcription
+EQU24_RS03930	translation and transcription
+EQU24_RS03925	translation and transcription
+EQU24_RS03920	translation and transcription
+EQU24_RS03915	translation and transcription
+EQU24_RS03910	translation and transcription
+EQU24_RS03905	translation and transcription
+EQU24_RS03900	translation and transcription
+EQU24_RS03895	translation and transcription
+EQU24_RS03890	translation and transcription
+EQU24_RS03885	translation and transcription
+EQU24_RS03880	translation and transcription
+EQU24_RS03875	translation and transcription
+EQU24_RS03870	translation and transcription
+EQU24_RS03855	translation and transcription
+EQU24_RS03850	translation and transcription
+EQU24_RS03835	translation and transcription
+EQU24_RS03830	translation and transcription
+EQU24_RS03825	translation and transcription
+EQU24_RS03820	translation and transcription
+EQU24_RS03780	translation and transcription
+EQU24_RS00505	translation and transcription
+EQU24_RS15120	translation and transcription
+EQU24_RS03865	translation and transcription
+EQU24_RS03860	translation and transcription
+EQU24_RS03800	translation and transcription
+EQU24_RS05545	translation and transcription
+EQU24_RS05485	translation and transcription
+EQU24_RS21980	translation and transcription
+EQU24_RS19375	translation and transcription
+EQU24_RS19085	translation and transcription
+EQU24_RS18565	translation and transcription
+EQU24_RS17855	translation and transcription
+EQU24_RS16690	translation and transcription
+EQU24_RS11355	translation and transcription
+EQU24_RS10280	translation and transcription
+EQU24_RS09750	translation and transcription
+EQU24_RS08620	translation and transcription
+EQU24_RS07940	translation and transcription
+EQU24_RS07405	translation and transcription
+EQU24_RS07400	translation and transcription
+EQU24_RS07380	translation and transcription
+EQU24_RS05630	translation and transcription
+EQU24_RS03510	translation and transcription
+EQU24_RS03505	translation and transcription
+EQU24_RS03340	translation and transcription
+EQU24_RS02730	translation and transcription
+EQU24_RS00800	translation and transcription
+EQU24_RS03360	biosynthesis
+EQU24_RS06005	biosynthesis
+EQU24_RS00730	biosynthesis
+EQU24_RS11310	biosynthesis
+EQU24_RS03290	biosynthesis
+EQU24_RS21400	biosynthesis
+EQU24_RS04570	biosynthesis
+EQU24_RS04555	biosynthesis
+EQU24_RS13195	biosynthesis
+EQU24_RS12280	biosynthesis
+EQU24_RS06365	biosynthesis
+EQU24_RS03300	biosynthesis
+EQU24_RS00490	biosynthesis
+EQU24_RS00485	biosynthesis
+EQU24_RS18890	biosynthesis
+EQU24_RS18880	biosynthesis
+EQU24_RS13135	biosynthesis
+EQU24_RS10485	biosynthesis
+EQU24_RS04195	biosynthesis
+EQU24_RS04190	biosynthesis
+EQU24_RS08400	biosynthesis
+EQU24_RS08395	biosynthesis
+EQU24_RS11560	biosynthesis
+EQU24_RS13750	biosynthesis
+EQU24_RS09375	biosynthesis
+EQU24_RS05605	biosynthesis
+EQU24_RS19065	biosynthesis
+EQU24_RS09755	biosynthesis
+EQU24_RS02875	biosynthesis
+EQU24_RS08500	biosynthesis
+EQU24_RS05365	biosynthesis
+EQU24_RS05320	biosynthesis
+EQU24_RS05315	biosynthesis
+EQU24_RS14165	biosynthesis
+EQU24_RS14160	biosynthesis
+EQU24_RS14155	biosynthesis
+EQU24_RS14150	biosynthesis
+EQU24_RS14145	biosynthesis
+EQU24_RS13380	biosynthesis
+EQU24_RS02820	biosynthesis
+EQU24_RS04710	biosynthesis
+EQU24_RS05180	biosynthesis
+EQU24_RS05190	biosynthesis
+EQU24_RS05185	biosynthesis
+EQU24_RS03230	biosynthesis
+EQU24_RS16665	biosynthesis
+EQU24_RS16670	biosynthesis
+EQU24_RS02800	biosynthesis
+EQU24_RS03775	biosynthesis
+EQU24_RS06120	biosynthesis
+EQU24_RS06115	biosynthesis
+EQU24_RS12750	biosynthesis
+EQU24_RS12740	biosynthesis
+EQU24_RS00090	biosynthesis
+EQU24_RS10350	biosynthesis
+EQU24_RS20535	biosynthesis
+EQU24_RS14365	biosynthesis
+EQU24_RS13325	biosynthesis
+EQU24_RS05550	biosynthesis
+EQU24_RS21065	biosynthesis
+EQU24_RS02355	biosynthesis
+EQU24_RS00575	biosynthesis
+EQU24_RS00570	biosynthesis
+EQU24_RS19390	biosynthesis
+EQU24_RS20860	biosynthesis
+EQU24_RS18785	biosynthesis
+EQU24_RS14860	biosynthesis
+EQU24_RS15170	biosynthesis
+EQU24_RS14375	biosynthesis
+EQU24_RS12690	biosynthesis
+EQU24_RS04500	biosynthesis
+EQU24_RS14370	biosynthesis
+EQU24_RS11815	biosynthesis
+EQU24_RS14385	biosynthesis
+EQU24_RS13215	biosynthesis
+EQU24_RS13210	biosynthesis
+EQU24_RS13205	biosynthesis
+EQU24_RS00845	biosynthesis
+EQU24_RS00840	biosynthesis
+EQU24_RS00835	biosynthesis
+EQU24_RS00830	biosynthesis
+EQU24_RS00445	biosynthesis
+EQU24_RS00440	biosynthesis
+EQU24_RS00435	biosynthesis
+EQU24_RS00430	biosynthesis
+EQU24_RS00425	biosynthesis
+EQU24_RS03125	biosynthesis
+EQU24_RS03120	biosynthesis
+EQU24_RS09260	biosynthesis
+EQU24_RS17340	biosynthesis
+EQU24_RS14255	biosynthesis
+EQU24_RS19275	biosynthesis
+EQU24_RS08905	biosynthesis
+EQU24_RS08900	biosynthesis
+EQU24_RS08880	biosynthesis
+EQU24_RS12910	biosynthesis
+EQU24_RS12905	biosynthesis
+EQU24_RS19560	biosynthesis
+EQU24_RS15260	biosynthesis
+EQU24_RS09445	biosynthesis
+EQU24_RS09440	biosynthesis
+EQU24_RS00745	biosynthesis
+EQU24_RS06945	biosynthesis
+EQU24_RS13755	biosynthesis
+EQU24_RS19110	biosynthesis
+EQU24_RS00765	biosynthesis
+EQU24_RS18075	biosynthesis
+EQU24_RS09430	biosynthesis
+EQU24_RS04080	biosynthesis
+EQU24_RS04070	biosynthesis
+EQU24_RS04065	biosynthesis
+EQU24_RS18780	biosynthesis
+EQU24_RS18775	biosynthesis
+EQU24_RS12080	biosynthesis
+EQU24_RS12075	biosynthesis
+EQU24_RS07045	biosynthesis
+EQU24_RS07945	biosynthesis
+EQU24_RS18770	biosynthesis
+EQU24_RS11775	biosynthesis
+EQU24_RS05375	biosynthesis
+EQU24_RS11770	biosynthesis
+EQU24_RS07185	biosynthesis
+EQU24_RS07340	biosynthesis
+EQU24_RS04560	biosynthesis
+EQU24_RS11780	biosynthesis
+EQU24_RS16650	biosynthesis
+EQU24_RS14390	biosynthesis
+EQU24_RS16645	biosynthesis
+EQU24_RS07950	biosynthesis
+EQU24_RS16165	biosynthesis
+EQU24_RS18615	biosynthesis
+EQU24_RS18670	biosynthesis
+EQU24_RS23105	biosynthesis
+EQU24_RS18665	biosynthesis
+EQU24_RS18660	biosynthesis
+EQU24_RS14600	biosynthesis
+EQU24_RS12975	biosynthesis
+EQU24_RS00740	biosynthesis
+EQU24_RS19600	biosynthesis
+EQU24_RS19605	biosynthesis
+EQU24_RS19610	biosynthesis
+EQU24_RS10385	biosynthesis
+EQU24_RS15085	biosynthesis
+EQU24_RS04830	biosynthesis
+EQU24_RS09660	biosynthesis
+EQU24_RS10365	biosynthesis
+EQU24_RS01715	biosynthesis
+EQU24_RS11145	biosynthesis
+EQU24_RS09665	biosynthesis
+EQU24_RS01700	biosynthesis
+EQU24_RS10375	biosynthesis
+EQU24_RS01710	biosynthesis
+EQU24_RS10380	biosynthesis
+EQU24_RS12700	biosynthesis
+EQU24_RS12695	biosynthesis
+EQU24_RS19975	energy metabolism
+EQU24_RS19970	energy metabolism
+EQU24_RS19965	energy metabolism
+EQU24_RS19960	energy metabolism
+EQU24_RS19955	energy metabolism
+EQU24_RS19950	energy metabolism
+EQU24_RS19945	energy metabolism
+EQU24_RS19940	energy metabolism
+EQU24_RS19935	energy metabolism
+EQU24_RS19930	energy metabolism
+EQU24_RS19940	energy metabolism
+EQU24_RS17265	energy metabolism
+EQU24_RS17260	energy metabolism
+EQU24_RS17255	energy metabolism
+EQU24_RS17250	energy metabolism
+EQU24_RS17245	energy metabolism
+EQU24_RS17240	energy metabolism
+EQU24_RS17235	energy metabolism
+EQU24_RS10195	energy metabolism
+EQU24_RS20430	energy metabolism
+EQU24_RS20420	energy metabolism
+EQU24_RS20415	energy metabolism
+EQU24_RS20410	energy metabolism
+EQU24_RS20405	energy metabolism
+EQU24_RS20400	energy metabolism
+EQU24_RS09960	energy metabolism
+EQU24_RS09955	energy metabolism
+EQU24_RS09950	energy metabolism
+EQU24_RS09945	energy metabolism
+EQU24_RS09940	energy metabolism
+EQU24_RS09935	energy metabolism
+EQU24_RS09930	energy metabolism
+EQU24_RS02265	energy metabolism
+EQU24_RS02260	energy metabolism
+EQU24_RS02255	energy metabolism
+EQU24_RS02250	energy metabolism
+EQU24_RS02245	energy metabolism
+EQU24_RS02240	energy metabolism
+EQU24_RS02235	energy metabolism
+EQU24_RS02230	energy metabolism
+EQU24_RS02225	energy metabolism
+EQU24_RS09080	energy metabolism
+EQU24_RS09075	energy metabolism
+EQU24_RS09070	energy metabolism
+EQU24_RS08260	energy metabolism
+EQU24_RS08255	energy metabolism
+EQU24_RS14130	energy metabolism
+EQU24_RS14125	energy metabolism
+EQU24_RS14115	energy metabolism
+EQU24_RS14110	energy metabolism
+EQU24_RS01760	energy metabolism
+EQU24_RS03115	energy metabolism
+EQU24_RS03110	energy metabolism
+EQU24_RS03105	energy metabolism
+EQU24_RS11515	energy metabolism
+EQU24_RS01470	energy metabolism
+EQU24_RS09785	energy metabolism
+EQU24_RS09780	energy metabolism
+EQU24_RS09775	energy metabolism
+EQU24_RS09770	energy metabolism
+EQU24_RS09765	energy metabolism
+EQU24_RS09760	energy metabolism
+EQU24_RS04635	central metabolism
+EQU24_RS04630	central metabolism
+EQU24_RS04625	central metabolism
+EQU24_RS04560	central metabolism
+EQU24_RS16740	central metabolism
+EQU24_RS16735	central metabolism
+EQU24_RS09360	central metabolism
+EQU24_RS19175	central metabolism
+EQU24_RS05845	central metabolism
+EQU24_RS04575	central metabolism
+EQU24_RS08335	central metabolism
+EQU24_RS01795	central metabolism
+EQU24_RS06980	central metabolism
+EQU24_RS06975	central metabolism
+EQU24_RS06970	central metabolism
+EQU24_RS06965	central metabolism
+EQU24_RS04220	central metabolism
+EQU24_RS04215	central metabolism
+EQU24_RS11665	central metabolism
+EQU24_RS11660	central metabolism
+EQU24_RS20940	central metabolism
+EQU24_RS21340	central metabolism
+EQU24_RS06025	central metabolism
+EQU24_RS19875	central metabolism
+EQU24_RS06015	central metabolism
+EQU24_RS06100	central metabolism
+EQU24_RS06010	central metabolism
+EQU24_RS21930	central metabolism
+EQU24_RS07200	central metabolism
+EQU24_RS21620	central metabolism
+EQU24_RS21605	central metabolism
+EQU24_RS21590	central metabolism
+EQU24_RS21575	central metabolism
+EQU24_RS18080	central metabolism
+EQU24_RS13265	central metabolism
+EQU24_RS11345	central metabolism
+EQU24_RS23165	central metabolism
+EQU24_RS23160	central metabolism
+EQU24_RS23155	central metabolism
+EQU24_RS23150	central metabolism
+EQU24_RS23145	central metabolism
+EQU24_RS23140	central metabolism
+EQU24_RS23135	central metabolism
+EQU24_RS23130	central metabolism
+EQU24_RS22035	central metabolism
+EQU24_RS21220	central metabolism
+EQU24_RS21290	central metabolism
+EQU24_RS21215	central metabolism
+EQU24_RS06110	central metabolism
+EQU24_RS06105	central metabolism
+EQU24_RS19930	central metabolism
+EQU24_RS06095	central metabolism
+EQU24_RS06090	central metabolism
+EQU24_RS13800	central metabolism
+EQU24_RS06435	central metabolism
+EQU24_RS15285	central metabolism
+EQU24_RS13675	central metabolism
+EQU24_RS13315	central metabolism
+EQU24_RS09840	central metabolism
+EQU24_RS18895	central metabolism
+EQU24_RS15280	central metabolism
+EQU24_RS19640	central metabolism
+EQU24_RS09515	central metabolism
+EQU24_RS20710	central metabolism
+EQU24_RS21560	central metabolism
+EQU24_RS07860	central metabolism
+EQU24_RS04150	central metabolism
+EQU24_RS00585	central metabolism
+EQU24_RS11520	central metabolism
+EQU24_RS11515	central metabolism
+EQU24_RS01475	central metabolism
+EQU24_RS01465	central metabolism
+EQU24_RS01460	central metabolism
+EQU24_RS01455	central metabolism
+EQU24_RS14315	central metabolism
+EQU24_RS13345	central metabolism
+EQU24_RS10305	central metabolism
+EQU24_RS09110	central metabolism
+EQU24_RS16905	central metabolism
+EQU24_RS09135	central metabolism
+EQU24_RS09125	central metabolism
+EQU24_RS08950	central metabolism
+EQU24_RS08945	central metabolism
+EQU24_RS08920	central metabolism
+EQU24_RS06160	central metabolism
+EQU24_RS06155	central metabolism
+EQU24_RS04570	central metabolism
+EQU24_RS19305	central metabolism
+EQU24_RS19310	central metabolism
+EQU24_RS19315	central metabolism
+EQU24_RS02970	central metabolism
+EQU24_RS02965	central metabolism
+EQU24_RS02960	central metabolism
+EQU24_RS02955	central metabolism
+EQU24_RS02950	central metabolism
+EQU24_RS02945	central metabolism
+EQU24_RS18610	central metabolism
+EQU24_RS18605	central metabolism
+EQU24_RS18145	central metabolism
+EQU24_RS18140	central metabolism
+EQU24_RS18135	central metabolism
+EQU24_RS18130	central metabolism
+EQU24_RS18125	central metabolism
+EQU24_RS18120	central metabolism
+EQU24_RS18115	central metabolism
+EQU24_RS18110	central metabolism
+EQU24_RS18105	central metabolism
+EQU24_RS18100	central metabolism
+EQU24_RS18095	central metabolism
