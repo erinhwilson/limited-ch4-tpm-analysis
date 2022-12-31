@@ -4,7 +4,7 @@ title: A methanotrophic bacterium to enable direct methane capture for climate m
 
 The following interactive visualizations are supplementary figures to accompany the RNA-seq results discussed in "A methanotrophic bacterium to enable direct methane capture for climate mitigation" by _He et al._ Manuscript in preparation. 
 
-In order to facilitate deeper exploration of significant differentially expressed genes in _M. buryatense_ 5GB1c when grown in limited CH<sub>4</sub>conditions, these charts are enabled with hover tooltips, custom selections, and pan + zoom functions. 
+In order to facilitate deeper exploration of significant differentially expressed genes in _M. buryatense_ 5GB1c when grown in limited CH<sub>4</sub> conditions, these charts are enabled with hover tooltips, custom selections, and pan + zoom functions. 
 
 # Visualization gallery
 
