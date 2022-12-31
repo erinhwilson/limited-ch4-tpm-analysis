@@ -1,4 +1,4 @@
-## Visualization gallery
+# Visualization gallery
 
 <div>
     <table>
