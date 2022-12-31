@@ -1,3 +1,7 @@
+---
+title: A methanotrophic bacterium to enable direct methane capture for climate mitigation
+---
+
 # Visualization gallery
 
 <div>
