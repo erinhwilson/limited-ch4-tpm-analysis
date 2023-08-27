@@ -1,8 +1,8 @@
 ---
-title: A methanotrophic bacterium to enable direct methane capture for climate mitigation
+title: A methanotrophic bacterium to enable methane removal for climate mitigation
 ---
 
-The following interactive visualizations are supplementary figures to accompany the RNA-seq results discussed in "A methanotrophic bacterium to enable direct methane capture for climate mitigation" by _He et al._ Manuscript in preparation. 
+The following interactive visualizations are supplementary figures to accompany the RNA-seq results discussed in "A methanotrophic bacterium to enable methane removal for climate mitigation" by _He et al._, [published](https://www.pnas.org/doi/10.1073/pnas.2310046120) in PNAS in 2023. 
 
 In order to facilitate deeper exploration of significant differentially expressed genes in _M. buryatense_ 5GB1c when grown in limited CH<sub>4</sub> conditions, these charts are enabled with hover tooltips, custom selections, and pan + zoom functions. 
 
